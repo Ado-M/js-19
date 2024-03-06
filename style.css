@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(73, 130, 245);
+  display: flex;
+  justify-content: center;
+
+}
+.main {
+  text-align: center;
+  background-color: #ffffff;
+  display: inline-block;
+  display: block;
+  justify-content: center;
+  height: 200vh;
+  margin-top: 10px;
+}
+#booksList {
+  background-color: rgb(73, 130, 245);
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 1px 1px 5px 1px;
+
+
+}
+h2 {
+  font-size: 50px;
+  text-shadow: #fdfbfb 1px 3px 2px;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(73, 130, 245);
+}
+h3 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+h4 {
+  margin-left: 20px;
+}
+
+input {
+  position: relative;
+  top: 10px;
+  height: 35px;
+  width: 200px;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+button {
+  border-radius: 20px;
+  box-shadow: 1px 1px 5px 1px;
+  margin-left: 20px;
+  margin-top: 10px;
+  height: 35px;
+  width: 100px;
+  cursor: pointer;
+  background-color: #fdfbfb;
+}
+#divv{
+  margin: 20px;
+  padding: 20px;
+  background-color: rgb(73, 130, 245);
+  color: white;
+  border-radius: 20px;
+  box-shadow: black 5px 5px 20px 5px;
+}
+
